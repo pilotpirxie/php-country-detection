@@ -6,9 +6,6 @@
 // hook up a library
 require 'CountryDetection.class.php';
 // use static method and get country
-// ex. New Zealand
-echo CountryDetection::get();
-// and it's this same as
 // ex. Zew Zealand
 echo CountryDetection::get('country');
 // other nice stuff to detect
@@ -17,7 +14,7 @@ echo CountryDetection::get('currency');
 ```
 
 ### License
-``` 
+```
 The MIT License
 
 Copyright (c) 2016 (10 minutes of development) Dominik Zdziarski
