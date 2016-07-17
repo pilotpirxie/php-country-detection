@@ -1,4 +1,4 @@
-# PHP Country Detection
+# PHP Country and Currency Detection
 
 ### How to use
 ```php
